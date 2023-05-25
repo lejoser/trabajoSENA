@@ -1,0 +1,69 @@
+.contenedor {
+    display: flex;
+}
+.contenedor1 {
+    display: flex
+}
+#yo {
+    background-color: rgb(84, 121, 145);
+    border: solid rgb(104, 202, 148);
+    border-style: dashed;
+}
+
+#yo1 {
+    background-color: rgb(32, 83, 30);
+    border: solid rgb(22, 165, 17);
+    padding: 50px;
+    border-style: groove;
+
+}
+
+#yo2 {
+    background-color: rgb(98, 214, 83);
+    border: solid rgb(1, 71, 1);
+    padding: 50px;
+    margin: 50px;
+    border-style: ridge;
+}
+
+#yo3 {
+    background-color: rgb(255, 102, 0);
+    border: solid rgb(182, 147, 53);
+    margin: 100px;
+    border-style: inset;
+}
+
+#imagen0 {
+    background-color: rgb(238, 255, 0);
+    border: solid rgb(168, 19, 19);
+    border-style: double;
+    width: 20%;
+    height: 20%;
+}
+#imagen1 {
+    background-color: rgb(192, 92, 10);
+    border: solid rgb(0, 0, 0);
+    padding: 50px;
+    border-style: inset;
+    width: 20%;
+    height: 20%;
+}
+
+#imagen2 {
+    background-color: rgb(3, 192, 13);
+    border: solid rgb(2, 49, 4);
+    border-style: solid;
+    padding: 50px;
+    margin: 50px;
+    width: 20%;
+    height: 20%;
+}
+
+#imagen3 {
+    background-color: rgb(108, 8, 175);
+    border: solid rgb(0, 0, 0);
+    border-style: solid;
+    margin: 50px;
+    width: 20%;
+    height: 20%;
+}
